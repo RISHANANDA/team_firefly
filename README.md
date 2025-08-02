@@ -77,8 +77,9 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[[Add your demo video link here](https://drive.google.com/file/d/1uy2ixdeM5mttG-sNPu3uC7wApodat3oO/view?usp=sharing)]
+
+
 
 # Additional Demos
 [Add any extra demo materials/links]
